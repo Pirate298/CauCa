@@ -7,14 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		732F1B801D9BB14C0047446D /* bluefish.png in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B711D9BB14C0047446D /* bluefish.png */; };
+		732F1B811D9BB14C0047446D /* buffaloFish.gif in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B721D9BB14C0047446D /* buffaloFish.gif */; };
+		732F1B821D9BB14C0047446D /* comedy.aif in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B731D9BB14C0047446D /* comedy.aif */; };
+		732F1B831D9BB14C0047446D /* dory.png in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B741D9BB14C0047446D /* dory.png */; };
+		732F1B841D9BB14C0047446D /* Fade.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B751D9BB14C0047446D /* Fade.mp3 */; };
+		732F1B851D9BB14C0047446D /* fish1.png in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B761D9BB14C0047446D /* fish1.png */; };
+		732F1B861D9BB14C0047446D /* fish2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B771D9BB14C0047446D /* fish2.jpg */; };
+		732F1B871D9BB14C0047446D /* fishroll.png in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B781D9BB14C0047446D /* fishroll.png */; };
+		732F1B881D9BB14C0047446D /* hook.png in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B791D9BB14C0047446D /* hook.png */; };
+		732F1B891D9BB14C0047446D /* lifeup.wav in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B7A1D9BB14C0047446D /* lifeup.wav */; };
+		732F1B8A1D9BB14C0047446D /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B7B1D9BB14C0047446D /* music.mp3 */; };
+		732F1B8B1D9BB14C0047446D /* nhac song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B7C1D9BB14C0047446D /* nhac song.mp3 */; };
+		732F1B8C1D9BB14C0047446D /* ocean.png in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B7D1D9BB14C0047446D /* ocean.png */; };
+		732F1B8D1D9BB14C0047446D /* stripedbass.gif in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B7E1D9BB14C0047446D /* stripedbass.gif */; };
+		732F1B8E1D9BB14C0047446D /* underOcean.png in Resources */ = {isa = PBXBuildFile; fileRef = 732F1B7F1D9BB14C0047446D /* underOcean.png */; };
 		73B4B1231D9B7A9100D0EDCB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4B1221D9B7A9100D0EDCB /* AppDelegate.swift */; };
 		73B4B1251D9B7A9100D0EDCB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4B1241D9B7A9100D0EDCB /* ViewController.swift */; };
 		73B4B1281D9B7A9100D0EDCB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73B4B1261D9B7A9100D0EDCB /* Main.storyboard */; };
 		73B4B12A1D9B7A9100D0EDCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73B4B1291D9B7A9100D0EDCB /* Assets.xcassets */; };
 		73B4B12D1D9B7A9100D0EDCB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73B4B12B1D9B7A9100D0EDCB /* LaunchScreen.storyboard */; };
+		73B4B1351D9B7B4400D0EDCB /* FishView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4B1341D9B7B4400D0EDCB /* FishView.swift */; };
+		73B4B1371D9B7B5A00D0EDCB /* HookerVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4B1361D9B7B5A00D0EDCB /* HookerVIew.swift */; };
+		73B4B1391D9B7B7000D0EDCB /* GameManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73B4B1381D9B7B7000D0EDCB /* GameManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		732F1B711D9BB14C0047446D /* bluefish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bluefish.png; sourceTree = "<group>"; };
+		732F1B721D9BB14C0047446D /* buffaloFish.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = buffaloFish.gif; sourceTree = "<group>"; };
+		732F1B731D9BB14C0047446D /* comedy.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = comedy.aif; sourceTree = "<group>"; };
+		732F1B741D9BB14C0047446D /* dory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dory.png; sourceTree = "<group>"; };
+		732F1B751D9BB14C0047446D /* Fade.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fade.mp3; sourceTree = "<group>"; };
+		732F1B761D9BB14C0047446D /* fish1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish1.png; sourceTree = "<group>"; };
+		732F1B771D9BB14C0047446D /* fish2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fish2.jpg; sourceTree = "<group>"; };
+		732F1B781D9BB14C0047446D /* fishroll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fishroll.png; sourceTree = "<group>"; };
+		732F1B791D9BB14C0047446D /* hook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hook.png; sourceTree = "<group>"; };
+		732F1B7A1D9BB14C0047446D /* lifeup.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lifeup.wav; sourceTree = "<group>"; };
+		732F1B7B1D9BB14C0047446D /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		732F1B7C1D9BB14C0047446D /* nhac song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "nhac song.mp3"; sourceTree = "<group>"; };
+		732F1B7D1D9BB14C0047446D /* ocean.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ocean.png; sourceTree = "<group>"; };
+		732F1B7E1D9BB14C0047446D /* stripedbass.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = stripedbass.gif; sourceTree = "<group>"; };
+		732F1B7F1D9BB14C0047446D /* underOcean.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = underOcean.png; sourceTree = "<group>"; };
 		73B4B11F1D9B7A9100D0EDCB /* CauCa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CauCa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73B4B1221D9B7A9100D0EDCB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73B4B1241D9B7A9100D0EDCB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +55,9 @@
 		73B4B1291D9B7A9100D0EDCB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73B4B12C1D9B7A9100D0EDCB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		73B4B12E1D9B7A9100D0EDCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73B4B1341D9B7B4400D0EDCB /* FishView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FishView.swift; sourceTree = "<group>"; };
+		73B4B1361D9B7B5A00D0EDCB /* HookerVIew.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HookerVIew.swift; sourceTree = "<group>"; };
+		73B4B1381D9B7B7000D0EDCB /* GameManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +71,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		732F1B701D9BB0A80047446D /* source */ = {
+			isa = PBXGroup;
+			children = (
+				732F1B711D9BB14C0047446D /* bluefish.png */,
+				732F1B721D9BB14C0047446D /* buffaloFish.gif */,
+				732F1B731D9BB14C0047446D /* comedy.aif */,
+				732F1B741D9BB14C0047446D /* dory.png */,
+				732F1B751D9BB14C0047446D /* Fade.mp3 */,
+				732F1B761D9BB14C0047446D /* fish1.png */,
+				732F1B771D9BB14C0047446D /* fish2.jpg */,
+				732F1B781D9BB14C0047446D /* fishroll.png */,
+				732F1B791D9BB14C0047446D /* hook.png */,
+				732F1B7A1D9BB14C0047446D /* lifeup.wav */,
+				732F1B7B1D9BB14C0047446D /* music.mp3 */,
+				732F1B7C1D9BB14C0047446D /* nhac song.mp3 */,
+				732F1B7D1D9BB14C0047446D /* ocean.png */,
+				732F1B7E1D9BB14C0047446D /* stripedbass.gif */,
+				732F1B7F1D9BB14C0047446D /* underOcean.png */,
+			);
+			name = source;
+			sourceTree = "<group>";
+		};
 		73B4B1161D9B7A9100D0EDCB = {
 			isa = PBXGroup;
 			children = (
@@ -54,9 +112,13 @@
 		73B4B1211D9B7A9100D0EDCB /* CauCa */ = {
 			isa = PBXGroup;
 			children = (
+				732F1B701D9BB0A80047446D /* source */,
 				73B4B1221D9B7A9100D0EDCB /* AppDelegate.swift */,
 				73B4B1241D9B7A9100D0EDCB /* ViewController.swift */,
 				73B4B1261D9B7A9100D0EDCB /* Main.storyboard */,
+				73B4B1341D9B7B4400D0EDCB /* FishView.swift */,
+				73B4B1361D9B7B5A00D0EDCB /* HookerVIew.swift */,
+				73B4B1381D9B7B7000D0EDCB /* GameManager.swift */,
 				73B4B1291D9B7A9100D0EDCB /* Assets.xcassets */,
 				73B4B12B1D9B7A9100D0EDCB /* LaunchScreen.storyboard */,
 				73B4B12E1D9B7A9100D0EDCB /* Info.plist */,
@@ -124,8 +186,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				73B4B12D1D9B7A9100D0EDCB /* LaunchScreen.storyboard in Resources */,
+				732F1B801D9BB14C0047446D /* bluefish.png in Resources */,
+				732F1B8C1D9BB14C0047446D /* ocean.png in Resources */,
+				732F1B831D9BB14C0047446D /* dory.png in Resources */,
+				732F1B851D9BB14C0047446D /* fish1.png in Resources */,
 				73B4B12A1D9B7A9100D0EDCB /* Assets.xcassets in Resources */,
+				732F1B8B1D9BB14C0047446D /* nhac song.mp3 in Resources */,
+				732F1B891D9BB14C0047446D /* lifeup.wav in Resources */,
+				732F1B811D9BB14C0047446D /* buffaloFish.gif in Resources */,
+				732F1B861D9BB14C0047446D /* fish2.jpg in Resources */,
 				73B4B1281D9B7A9100D0EDCB /* Main.storyboard in Resources */,
+				732F1B881D9BB14C0047446D /* hook.png in Resources */,
+				732F1B871D9BB14C0047446D /* fishroll.png in Resources */,
+				732F1B841D9BB14C0047446D /* Fade.mp3 in Resources */,
+				732F1B8D1D9BB14C0047446D /* stripedbass.gif in Resources */,
+				732F1B8E1D9BB14C0047446D /* underOcean.png in Resources */,
+				732F1B8A1D9BB14C0047446D /* music.mp3 in Resources */,
+				732F1B821D9BB14C0047446D /* comedy.aif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +215,9 @@
 			files = (
 				73B4B1251D9B7A9100D0EDCB /* ViewController.swift in Sources */,
 				73B4B1231D9B7A9100D0EDCB /* AppDelegate.swift in Sources */,
+				73B4B1371D9B7B5A00D0EDCB /* HookerVIew.swift in Sources */,
+				73B4B1351D9B7B4400D0EDCB /* FishView.swift in Sources */,
+				73B4B1391D9B7B7000D0EDCB /* GameManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +377,7 @@
 				73B4B1331D9B7A9100D0EDCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
